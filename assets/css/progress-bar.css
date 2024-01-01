@@ -34,7 +34,7 @@ html {
 }
 
 .app--coffee .progress-bar__meter {
-		background-image: linear-gradient(to right, var(--color-new-black), var(--color-coffee));
+		background-image: linear-gradient(to right, var(--color-new-black) -45%, var(--color-coffee));
 		animation-duration: var(--time-coffee-duration);
 }
 
